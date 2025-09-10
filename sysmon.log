@@ -1,0 +1,739 @@
+--- Tue Sep  9 21:58:45 UTC 2025 ---
+CPU:
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       125Mi       1.5Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  293G   51G  86% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  636K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  293G   51G  86% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  602G   97G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  293G   51G  86% /Docker/host
+NETWORK:
+eth0:
+RX: 480583640 packets, 351772 bytes
+TX: 4316090 packets, 41343 bytes
+
+--- Tue Sep  9 21:59:55 UTC 2025 ---
+CPU:
+User: 0.09% System: 0.19% Idle: 99.66%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        26Gi       125Mi       1.9Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  644K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485841808 packets, 355535 bytes
+TX: 4394545 packets, 42353 bytes
+
+--- Tue Sep  9 22:03:18 UTC 2025 ---
+CPU:
+User: 0.19% System: 0.19% Idle: 99.50%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       125Mi       866Mi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  644K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485853258 packets, 355586 bytes
+TX: 4397463 packets, 42383 bytes
+
+--- Tue Sep  9 22:04:29 UTC 2025 ---
+CPU:
+User: 0.06% System: 0.15% Idle: 99.79%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       125Mi       879Mi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485853696 packets, 355593 bytes
+TX: 4397901 packets, 42390 bytes
+
+--- Tue Sep  9 22:07:51 UTC 2025 ---
+CPU:
+User: 0.21% System: 0.21% Idle: 99.56%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       126Mi       912Mi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485866227 packets, 355645 bytes
+TX: 4402057 packets, 42423 bytes
+
+--- Tue Sep  9 22:09:02 UTC 2025 ---
+CPU:
+User: 0.09% System: 0.03% Idle: 99.85%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       126Mi       920Mi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485866665 packets, 355652 bytes
+TX: 4402585 packets, 42431 bytes
+
+--- Tue Sep  9 22:12:25 UTC 2025 ---
+CPU:
+User: 0.03% System: 0.00% Idle: 99.94%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       126Mi       982Mi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485878055 packets, 355701 bytes
+TX: 4405353 packets, 42458 bytes
+
+--- Tue Sep  9 22:13:36 UTC 2025 ---
+CPU:
+User: 0.46% System: 0.12% Idle: 99.42%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.7Gi        27Gi       126Mi       994Mi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485880607 packets, 355719 bytes
+TX: 4405903 packets, 42467 bytes
+
+--- Tue Sep  9 22:16:00 UTC 2025 ---
+CPU: User: 0.12% System: 0.12% Idle: 99.75%
+MEMORY:                total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.7Gi        27Gi       126Mi       1.0Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK: Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK: eth0:
+RX: 485892092 packets, 355763 bytes
+TX: 4411225 packets, 42503 bytes
+
+--- Tue Sep  9 22:16:59 UTC 2025 ---
+CPU:
+User: 0.09% System: 0.25% Idle: 99.66%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.7Gi        27Gi       126Mi       1.0Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485892356 packets, 355767 bytes
+TX: 4411489 packets, 42507 bytes
+
+--- Tue Sep  9 22:18:10 UTC 2025 ---
+CPU:
+User: 0.41% System: 0.22% Idle: 99.31%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.7Gi        27Gi       126Mi       1.0Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485894824 packets, 355783 bytes
+TX: 4411885 packets, 42513 bytes
+
+--- Tue Sep  9 22:20:33 UTC 2025 ---
+CPU: User: 0.12% System: 0.09% Idle: 99.78%
+MEMORY:                total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       127Mi       1.0Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK: Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK: eth0:
+RX: 485903729 packets, 355815 bytes
+TX: 4414251 packets, 42533 bytes
+
+--- Tue Sep  9 22:21:33 UTC 2025 ---
+CPU:
+User: 0.21% System: 0.98% Idle: 98.69%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       127Mi       1.1Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485918640 packets, 355863 bytes
+TX: 4418733 packets, 42568 bytes
+
+--- Tue Sep  9 22:22:44 UTC 2025 ---
+CPU:
+User: 0.06% System: 0.34% Idle: 99.56%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       127Mi       1.1Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485919036 packets, 355869 bytes
+TX: 4419129 packets, 42574 bytes
+
+--- Tue Sep  9 22:25:07 UTC 2025 ---
+CPU: User: 0.25% System: 0.03% Idle: 99.69%
+MEMORY:                total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       127Mi       1.1Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK: Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK: eth0:
+RX: 485941761 packets, 355940 bytes
+TX: 4427395 packets, 42636 bytes
+
+--- Tue Sep  9 22:26:06 UTC 2025 ---
+CPU:
+User: 0.47% System: 0.88% Idle: 98.62%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       127Mi       1.1Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485944097 packets, 355954 bytes
+TX: 4427659 packets, 42640 bytes
+
+--- Tue Sep  9 22:27:18 UTC 2025 ---
+CPU:
+User: 0.09% System: 0.12% Idle: 99.78%
+MEMORY:
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       127Mi       1.1Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK:
+Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK:
+eth0:
+RX: 485950623 packets, 355971 bytes
+TX: 4429773 packets, 42656 bytes
+
+--- Tue Sep  9 22:29:41 UTC 2025 ---
+CPU: User: 0.16% System: 0.03% Idle: 99.78%
+MEMORY:                total        used        free      shared  buff/cache   available
+Mem:            30Gi       2.8Gi        27Gi       127Mi       1.1Gi        28Gi
+Swap:          8.0Gi          0B       8.0Gi
+DISK: Filesystem                               Type     Size  Used Avail Use% Mounted on
+none                                     overlay   16G     0   16G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none                                     tmpfs     16G  4.0K   16G   1% /mnt/wsl
+none                                     tmpfs     16G  652K   16G   1% /mnt/wsl/docker-desktop/shared-sockets/host-services
+/dev/sdc                                 ext4    1007G   57M  956G   1% /mnt/wsl/docker-desktop/docker-desktop-user-distro
+drivers                                  9p       343G  292G   52G  85% /usr/lib/wsl/drivers
+/dev/sde                                 ext4    1007G   74G  883G   8% /
+none                                     tmpfs     16G  100K   16G   1% /mnt/wslg
+none                                     overlay   16G     0   16G   0% /usr/lib/wsl/lib
+rootfs                                   rootfs    16G  2.4M   16G   1% /init
+none                                     tmpfs     16G  640K   16G   1% /run
+none                                     tmpfs     16G     0   16G   0% /run/lock
+none                                     tmpfs     16G     0   16G   0% /run/shm
+tmpfs                                    tmpfs    4.0M     0  4.0M   0% /sys/fs/cgroup
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/versions.txt
+none                                     overlay   16G  100K   16G   1% /mnt/wslg/doc
+C:\                                      9p       343G  292G   52G  85% /mnt/c
+D:\                                      9p       699G  367G  332G  53% /mnt/d
+E:\                                      9p       932G  840G   93G  91% /mnt/e
+F:\                                      9p       1.9T  163M  1.9T   1% /mnt/f
+G:\                                      9p       698G  605G   94G  87% /mnt/g
+H:\                                      9p       1.5T  772G  748G  51% /mnt/h
+I:\                                      9p       1.9T  1.8T   23G  99% /mnt/i
+J:\                                      9p       1.9T  1.7T  176G  91% /mnt/j
+K:\                                      9p       476G  390G   87G  82% /mnt/k
+/dev/loop0                               iso9660  614M  614M     0 100% /mnt/wsl/docker-desktop/cli-tools
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/1000
+tmpfs                                    tmpfs    3.1G   16K  3.1G   1% /run/user/0
+C:\Program Files\Docker\Docker\resources 9p       343G  292G   52G  85% /Docker/host
+NETWORK: eth0:
+RX: 485967915 packets, 356033 bytes
+TX: 4434579 packets, 42695 bytes
+
